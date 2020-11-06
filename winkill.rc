@@ -1,0 +1,8 @@
+/* Icon with lowest ID value placed first to ensure application icon 
+   remains consistent on all systems. */
+TRAYICON                ICON    DISCARDABLE     "winkill.ico"
+
+/* Cursors */
+FINDANDKILLCURSOR       CURSOR  DISCARDABLE     "FindAndKill.cur"
+FINDANDHIDECURSOR       CURSOR  DISCARDABLE     "FindAndHide.cur"
+FINDANDNICECURSOR       CURSOR  DISCARDABLE     "FindAndNice.cur"
